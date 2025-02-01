@@ -12,6 +12,8 @@ export default createGlobalStyle`
         --gray: #D9D9D9;
         --blue: #4799FF;
         --white: #FFF;
+        --gray-light: #e5e1dc;
+        --shade: #efeefe;
     }
 
     body{
